@@ -31,7 +31,7 @@ gradle bootRun
 
 # Diagrama de la solución
 
-![Diagrama de componentes](https://github.com/juniorpecho/challenge-junior-pecho.jpg)
+![Diagrama de componentes](https://github.com/jppm1850/challenge-user-v1/blob/main/challenge-junior-pecho.jpg)
 
 
 
